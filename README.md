@@ -28,8 +28,8 @@ This Python script uses Selenium to automate the process of uploading cover lett
 3. Create a `.env` file in the project root and set the following variables:
 
     ```env
-    MY_USERNAME=your_username
-    MY_PASSWORD=your_password
+    MY_USERNAME="your_username"
+    MY_PASSWORD="your_password"
     ```
 
 ## Usage
