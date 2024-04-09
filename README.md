@@ -4,12 +4,10 @@ A customizable script to upload all files (currently cover letters) from a given
 This Python script uses Selenium to automate the process of uploading cover letters and creating application packages on the Carleton University Co-op Portal , (https://mysuccess.carleton.ca/).
 
 ## Prerequisites
+- Python
+- Selenium (with the chrome driver ideally)
 
-- [Python](https://www.python.org/downloads/) (>= 3.6)
-- [ChromeDriver](https://sites.google.com/chromium.org/driver/) (Ensure it's in your system PATH)
-- Selenium
-
-## Installation/Recreations
+## Installation/Compilation
 
 1. Clone the repository:
 
