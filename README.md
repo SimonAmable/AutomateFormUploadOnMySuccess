@@ -1,7 +1,6 @@
 # AutomateFormUploadOnMySuccess
 A customizable script to upload all files (currently cover letters) from a given directory to Carleton Co-op site and constructs application packages from them.
-# Selenium Coop Application
-
+## Selenium Coop Application
 This Python script uses Selenium to automate the process of uploading cover letters and creating application packages on the Carleton University Co-op Portal , (https://mysuccess.carleton.ca/).
 
 ## Prerequisites
